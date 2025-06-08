@@ -40,7 +40,7 @@ Install other dependencies
 pip install -r requirements.txt
 ```
 
-### Prepare Datasets:
+## Prepare Datasets:
 
 ```
 python download_and_process.py
