@@ -9,11 +9,9 @@
 </p> -->
 
 This repository contains the implementation of the paper:
-
-**TabNAT: A Continuous-Discrete Joint Generative Framework for Tabular Data**  
-*Forty-Second International Conference on Machine Learning (ICML 2025)*  
-Hengrui Zhang*, Liancheng Fang*, Qitian Wu, Philip S. Yu  
-
+> **TabNAT: A Continuous-Discrete Joint Generative Framework for Tabular Data**  <br>
+> Forty-Second International Conference on Machine Learning (ICML 2025)<br>
+> Hengrui Zhang*, Liancheng Fang*, Qitian Wu, Philip S. Yu  <br>
 
 ## Installing Dependencies
 
@@ -42,17 +40,13 @@ Install other dependencies
 pip install -r requirements.txt
 ```
 
-## Preparing Datasets
-
-### Using the datasets adopted in the paper
-
-Download and process dataset:
+### Prepare Datasets:
 
 ```
 python download_and_process.py
 ```
 
-## Train, Sample and evaluate
+## Train, Sample and Evaluate
 
 ```
 bash run.sh
