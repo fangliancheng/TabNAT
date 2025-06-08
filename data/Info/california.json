@@ -1,0 +1,23 @@
+{
+    "name": "caliornia",
+    "task_type": "multiclass",
+    "header": "infer",
+    "column_names": [
+        "longitude",
+        "latitude",
+        "housing_median_age",
+        "total_rooms",
+        "total_bedrooms",
+        "population",
+        "households",
+        "median_income",
+        "median_house_value",
+        "ocean_proximity"
+    ],
+    "num_col_idx": [0,1,2,3,4,5,6,7,8],
+    "cat_col_idx": [],
+    "target_col_idx": [9],
+    "file_type": "csv",
+    "data_path": "data/california/california.csv",
+    "test_path": null
+}

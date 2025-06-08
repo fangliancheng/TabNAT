@@ -1,0 +1,14 @@
+{
+    "name": "nursery",
+    "task_type": "multiclass",
+    "header": "infer",
+    "column_names": null,
+    "num_col_idx": [],
+    "cat_col_idx": [0,1,2,3,4,5,6,7],
+    "target_col_idx": [
+        8
+    ],
+    "file_type": "csv",
+    "data_path": "data/nursery/nursery.csv",
+    "test_path": null
+}
