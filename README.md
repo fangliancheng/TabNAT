@@ -12,9 +12,7 @@ This repository contains the implementation of the paper:
 
 **TabNAT: A Continuous-Discrete Joint Generative Framework for Tabular Data**  
 *Forty-Second International Conference on Machine Learning (ICML 2025)*  
-
-Hengrui Zhang<sup>*</sup>, Liancheng Fang<sup>*</sup>, Qitian Wu, Philip S. Yu  
-<sup>*</sup>Equal contribution
+Hengrui Zhang*, Liancheng Fang*, Qitian Wu, Philip S. Yu  
 
 
 ## Installing Dependencies
